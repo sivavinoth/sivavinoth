@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.analyticsinsight.net%2Fwp-content%2Fuploads%2F2020%2F03%2FAI_Animated.gif&imgrefurl=https%3A%2F%2Fwww.analyticsinsight.net%2Fdeep-learning-technologies-impacting-computer-vision-advances%2F&tbnid=CeHaQmSTdn_ATM&vet=12ahUKEwjn09KE_NX9AhXGKrcAHc8MDlwQMygBegUIARDsAQ..i&docid=i6DWx8tjSDDfNM&w=800&h=600&q=artificial%20intelligence%20machine%20learning%20gif&hl=en&ved=2ahUKEwjn09KE_NX9AhXGKrcAHc8MDlwQMygBegUIARDsAQ)]
+
 
 <h1 align="center">Hi 👋, I'm siva vinoth</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
