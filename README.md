@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivavinoth" alt="sivavinoth" /></a> </p> -->
 
-- 🌱 I’m currently learning **power BI ,ML Algorithms ,Ploty**
+- 🌱 I’m currently learning **Mlops ,CI/CD ,Data Engineering**
 
 - 💬 Ask me about **Analytics , EDA**
 
