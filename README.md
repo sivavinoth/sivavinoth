@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mlops ,CI/CD ,Data Engineering**
 
-- 💬 Ask me about **Analytics , EDA**
+- 💬 Ask me about **DATA **
 
 - 📫 How to reach me **mjsivavinoth@gmail.com**
 
