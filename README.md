@@ -11,7 +11,7 @@ I'm a passionate Django Developer with a strong interest in building robust back
 - 💬 Ask me about Django, backend development, and cloud solutions.
 - 📫 How to reach me: [mjsivavinoth@gmail.com](mailto:mjsivavinoth@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love hiking and exploring new places.
+- ⚡ Fun fact: I love data engineering and exploring new things.
 
 ## Skills
 
