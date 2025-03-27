@@ -34,6 +34,6 @@ I'm a passionate Django Developer with a strong interest in building robust back
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sivavinoth)
-- [Twitter](https://twitter.com/sivavinoth)
+
 
 Thanks for visiting my profile! Have a great day! 😊
