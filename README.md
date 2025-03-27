@@ -5,7 +5,7 @@
 
 I'm a passionate Django Developer with a strong interest in building robust backend systems and scalable web applications. My journey in web development has been fueled by curiosity and a desire to solve complex challenges through innovative solutions.
 
-- 🔭 I’m currently working on various backend development projects and Data engineering.
+- 🔭 I’m currently learning backend development .
 - 🌱 I’m currently learning advanced backend development techniques and performance optimization.
 - 👯 I’m looking to collaborate on innovative web development projects.
 - 💬 Ask me about Django, backend development, and Data engineering.
@@ -16,13 +16,12 @@ I'm a passionate Django Developer with a strong interest in building robust back
 ## Skills
 
 - **Languages**: Python, SQL, Java
-- **Frameworks & Libraries**: Django, Django REST Framework, Apache Airflow
-- **Tools**: Git, Docker, Kubernetes, GitHub Actions
-- **Cloud Platforms**: AWS (Amazon Web Services), GCP (Google Cloud Platform)
-- **Databases**: MySQL, PostgreSQL, MongoDB, Redshift
-- **Data Warehousing**: Snowflake, BigQuery
-- **ETL Tools**: Apache NiFi
-- **Big Data Technologies**: Hive, Presto, Kafka
+- **Frameworks & Libraries**: Django,Spark, Apache Airflow
+- **Tools**: Git, Docker, Kubernetes .
+- **Cloud Platforms**: AWS (Amazon Web Services)
+- **Databases**: MySQL, MongoDB
+- **Data Warehousing**: Snowflake 
+- **Big Data Technologies**: Kafka
 
 ## GitHub Stats
 
