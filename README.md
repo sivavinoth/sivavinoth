@@ -5,17 +5,17 @@
 
 I'm a passionate Django Developer with a strong interest in building robust backend systems and scalable web applications. My journey in web development has been fueled by curiosity and a desire to solve complex challenges through innovative solutions.
 
-- 🔭 I’m currently learning backend development .
-- 🌱 I’m currently learning advanced backend development techniques and performance optimization.
-- 👯 I’m looking to collaborate on innovative web development projects.
-- 💬 Ask me about Django, backend development, and Data engineering.
+- 🔭 I’m currently learning Data Engineering .
+- 🌱 I’m currently learning Airflow , Pyspark , Kafka techniques and performance optimization.
+- 👯 I’m looking to collaborate on innovative Data Engineering and genai.
+- 💬 Ask me about  and Data engineering.
 - 📫 How to reach me: [mjsivavinoth@gmail.com](mailto:mjsivavinoth@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love data engineering and exploring new things.
 
 ## Skills
 
-- **Languages**: Python, SQL, Java
+- **Languages**: Python, SQL
 - **Frameworks & Libraries**: Django,Spark, Apache Airflow
 - **Tools**: Git, Docker, Kubernetes .
 - **Cloud Platforms**: AWS (Amazon Web Services)
