@@ -20,7 +20,7 @@ I'm a passionate Django Developer with a strong interest in building robust back
 - **Tools**: Git, Docker, Kubernetes .
 - **Cloud Platforms**: AWS (Amazon Web Services)
 - **Databases**: MySQL, MongoDB
-- **Data Warehousing**: Snowflake 
+- **Data Warehousing**: Snowflake ,AWS REDSHIFT
 - **Big Data Technologies**: Kafka
 
 ## GitHub Stats
